@@ -1,1 +1,1 @@
-Analyze the efficiency of Merge Sort and Quick Sort using asymptotic notations. Clearly define the problem of comparing sorting algorithms for large datasets. Apply Big-O, Big-Theta, and Big-Omega notations to evaluate best,average, and worst cases. Use suitable tools (graphs or tables) to visualize performance differences. Present your findings clearly and justify which algorithm is more efficient under different scenarios.
+
